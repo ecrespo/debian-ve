@@ -1,0 +1,13 @@
+# Requeriments Linux Dependencies 
+python-dev
+libpq-dev
+libjpeg-dev
+libfreetype6-dev
+zlib1g-dev
+libpng12-dev
+
+
+# Requeriments MAC OS Dependencies
+python-dev
+libjpeg
+libpng
